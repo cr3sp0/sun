@@ -7,7 +7,7 @@ $(document).ready(function(){
         if (scelta == "blank") {
             document.body.style.backgroundImage = 'none';
             $("#image").html("");
-            $("#message").html("");
+            $("#message").html("<h5>SELEZIONA UN'OPZIONE PER INIZIARE</h5>");
         } else if (scelta == "144p") {
             document.body.style.backgroundImage = 'none';
             $("#image").html("<img src='360_F_358656579_jCH2jBCvDLQTmbZfxlPzxiyM2yEfFpQo-removebg-preview.png' alt='Immagine'>");
