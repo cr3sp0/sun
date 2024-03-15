@@ -25,6 +25,7 @@ body{
 }
 
 .image {
+    padding-bottom: 100px;
     height: 30vh;
     width: 30vh;
 }
